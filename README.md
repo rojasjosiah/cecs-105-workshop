@@ -6,3 +6,5 @@ since this is all you seem to be asking for, so please don't mark
 me down is this ain't it.
 
 This is an extra line I'm adding to test the update fetch command
+
+This line I added directly on the file on my computer
